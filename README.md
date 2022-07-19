@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Chibuike's+Github+page;I'm+a+Software+Developer)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on ... an interactive comments website using react and bootstrap
+- 🌱 I’m currently learning ... React JS, TypeScript
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [Email](mailto:codexjay08@gmail.com)
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: ...
+
 <!--
 **Jay035/Jay035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
