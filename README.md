@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Chibuike's+Github+page;I'm+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+CodexJay's+Github+page;I'm+a+Self-taught+Software+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ... an interactive comments website using react and bootstrap
 - 🌱 I’m currently learning ... React JS, TypeScript
