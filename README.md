@@ -10,9 +10,9 @@ I'm an enthusiastic Frontend developer, an ardent believer in continuous learnin
 
 - 😊 Pronouns: He/him
 - 🔭 I work with HTML, CSS, TailwindCSS, SCSS/SASS, Bootstrap, ReactJS
+- 💼 I'm currently looking for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, React JS
-- 🌱 I’m currently part of [HNG9 Internship](https://internship.zuri.team/hngi9)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing codexjay08@gmail.com.
