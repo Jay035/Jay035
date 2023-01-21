@@ -10,6 +10,7 @@ I'm an enthusiastic Frontend developer, an ardent believer in continuous learnin
 
 - 😊 Pronouns: He/him
 - 🔭 I work with HTML, CSS, TailwindCSS, SCSS/SASS, Bootstrap, ReactJS
+- 🔭 I build scalable web applications.
 - 💼 I'm currently looking for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, React JS
