@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+CodexJay's+Github+page;I'm+a+Self-taught+Frontend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+CodexJay's+Github+page;I'm+a+Self-taught+Frontend+Developer)](https://git.io/typing-svg)
 
 [![Website Badge](https://img.shields.io/badge/-codexjay.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://codexjay.vercel.app)](https://codexjay.vercel.app) [![Linkedin Badge](https://img.shields.io/badge/-Chibuike~Ukandu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuike-ukandu-8385401b0/)](https://www.linkedin.com/in/chibuike-ukandu-8385401b0/) [![Twitter Badge](https://img.shields.io/badge/-@Chibuike035-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chibuike035)](https://twitter.com/Chibuike035)
 
-I am a self-taught Front-end Engineer with expertise in creating responsive, scalable and intuitive interfaces using industry best practices. I'm proficient with React JS, Vue JS, JavaScript, Typescript, Next JS, BootStrap, TailwindCSS, SASS/SCSS, HTML, and CSS
+I am a self-taught Front-end Developer with expertise in creating responsive, scalable and intuitive interfaces using industry best practices. I'm proficient with React JS, Vue JS, JavaScript, Typescript, Next JS, BootStrap, TailwindCSS, SASS/SCSS, HTML, and CSS
 
 As a passionate Front-end Engineer, I constantly strive to grow my technical and soft abilities in order to build better software solutions that provide the best user experience.
 
@@ -15,9 +15,9 @@ As a passionate Front-end Engineer, I constantly strive to grow my technical and
 - 🔭 I build scalable web applications.
 💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I'm currently learning Next JS.
+- 🌱 I'm currently learning Next JS, TypeScript and looking to learn Backend development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Frontend Developer or UI Engineer (Intern or Junior level). 
+- 💼 Job interests: Software Engineer, Frontend Engineer, Frontend Developer or UI Engineer (Intern or Junior level). 
 - 📫 You can contact me by emailing codexjay08@gmail.com.
 
 ---
