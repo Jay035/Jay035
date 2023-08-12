@@ -5,7 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/-codexjay.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://codexjay.vercel.app)](https://codexjay.vercel.app) [![Linkedin Badge](https://img.shields.io/badge/-Chibuike~Ukandu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuike-ukandu-8385401b0/)](https://www.linkedin.com/in/chibuike-ukandu-8385401b0/) [![Twitter Badge](https://img.shields.io/badge/-@Chibuike035-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chibuike035)](https://twitter.com/Chibuike035)
 
 
-👋 Hi there! I'm Chibuike Ukandu, also known as CodexJay. I'm a passionate Frontend Engineer with a knack for crafting intuitive and amazing web interfaces. I'm proficient with React JS, Vue JS, JavaScript, Typescript, Next JS, BootStrap, TailwindCSS, SASS/SCSS, HTML, and CSS
+I'm Chibuike Ukandu, also known as CodexJay, a passionate Frontend Engineer with a knack for building intuitive and scalable web interfaces. I'm proficient with React JS, Vue JS, JavaScript, Typescript, Next JS, BootStrap, TailwindCSS, SASS/SCSS, HTML and CSS.
+
 As a passionate Front-end Engineer, I constantly strive to grow my technical and soft abilities in order to build better software solutions that provide the best user experience.
 
 **Here's a quick summary about me**:
