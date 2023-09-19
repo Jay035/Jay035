@@ -13,12 +13,12 @@ As a passionate Front-end Engineer, I constantly strive to grow my technical and
 
 - 😊 Pronouns: He/him
 - 🔭 I work with React JS, Vue JS, JavaScript, Typescript, Next JS, TailwindCSS, SCSS/SASS, Bootstrap, HTML, CSS...
-- 🔭 I build scalable web applications.
-💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
+- 🔭 I build scalable and intuitive web applications.
+- 💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm an Alumnus of  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I'm currently learning Next JS, TypeScript and looking to learn Backend development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, Frontend Developer or UI Engineer (Intern or Junior level). 
+- 💼 Job interests: Software Engineer, Frontend Engineer, Frontend Developer or UI Engineer. 
 - 📫 You can contact me by emailing codexjay08@gmail.com.
 
 ---
