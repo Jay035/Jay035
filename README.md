@@ -17,8 +17,8 @@ As a passionate Front-end Engineer, I constantly strive to grow my technical and
 - 💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm an Alumnus of  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I'm currently learning Next JS, TypeScript and looking to learn Backend development.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, Frontend Developer or UI Engineer. 
+- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, React JS Developer, Frontend Engineer, Frontend Developer or UI Engineer. 
 - 📫 You can contact me by emailing codexjay08@gmail.com.
 
 ---
