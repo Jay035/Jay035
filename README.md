@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+CodexJay's+Github+page;I'm+a+Frontend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Frontend+Engineer;I'm+a+Webflow+Developer)](https://git.io/typing-svg)
 
 [![Website Badge](https://img.shields.io/badge/-codexjay.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://codexjay.vercel.app)](https://codexjay.vercel.app) [![Linkedin Badge](https://img.shields.io/badge/-Chibuike~Ukandu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuike-ukandu-8385401b0/)](https://www.linkedin.com/in/chibuike-ukandu-8385401b0/) [![Twitter Badge](https://img.shields.io/badge/-@Chibuike035-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chibuike035)](https://twitter.com/Chibuike035)
 
@@ -27,6 +27,7 @@ As a passionate Front-end Engineer, I constantly strive to grow my technical and
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
