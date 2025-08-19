@@ -16,9 +16,9 @@ As a passionate Front-end Engineer, I constantly strive to grow my technical and
 - 🔭 I build scalable and intuitive web applications.
 - 💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm a Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I'm currently learning Redux, NodeJS and perfecting my technical writing skills.
+- 🌱 I'm currently learning NodeJS, Express JS and perfecting my technical writing skills.
 - 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
-- 💼 Job interests:  Frontend Engineer, Software Engineer, React JS Developer, Frontend Developer, UI Engineer. 
+- 💼 Job interests: Frontend Engineer, Software Engineer, React JS Developer, Frontend Developer, UI Engineer. 
 - 📫 You can contact me by emailing codexjay08@gmail.com.
 
 
