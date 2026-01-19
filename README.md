@@ -9,10 +9,8 @@ I'm Chibuike Ukandu, also known as CodexJay, a passionate Frontend Engineer with
 
 As a passionate Front-end Engineer, I constantly strive to grow my technical and soft abilities in order to build better software solutions that provide the best user experience.
 
-**A quick summary about me**:
+**A bit about me**:
 
-- 😊 Pronouns: He/him
-- 🔭 I work with React JS, Vue JS, JavaScript, Typescript, Next JS, TailwindCSS, SCSS/SASS, Bootstrap, HTML, CSS...
 - 🔭 I build scalable and intuitive web applications.
 - 💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
 - 💡 Fun fact: I'm a Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
