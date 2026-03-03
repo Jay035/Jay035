@@ -2,22 +2,41 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Frontend+Engineer;I'm+a+Webflow+Developer)](https://git.io/typing-svg)
 
-[![Website Badge](https://img.shields.io/badge/-codexjay.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://codexjay.vercel.app)](https://codexjay.vercel.app) [![Linkedin Badge](https://img.shields.io/badge/-Chibuike~Ukandu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuike-ukandu-8385401b0/)](https://www.linkedin.com/in/chibuike-ukandu-8385401b0/) [![Twitter Badge](https://img.shields.io/badge/-@Chibuike035-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chibuike035)](https://twitter.com/Chibuike035)
+[![Website Badge](https://img.shields.io/badge/-codexjay.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://codexjay.dev)](https://codexjay.dev) [![Linkedin Badge](https://img.shields.io/badge/-Chibuike~Ukandu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuike-ukandu-8385401b0/)](https://www.linkedin.com/in/chibuike-ukandu/) [![Twitter Badge](https://img.shields.io/badge/-@Chibuike035-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chibuike035)](https://twitter.com/Chibuike035)
 
 
-I'm Chibuike Ukandu, also known as CodexJay, a passionate Frontend Engineer with a knack for building intuitive and scalable web interfaces. I'm proficient with React JS, Vue JS, JavaScript, Typescript, Next JS, BootStrap, TailwindCSS, SASS/SCSS, HTML and CSS.
 
-As a passionate Front-end Engineer, I constantly strive to grow my technical and soft abilities in order to build better software solutions that provide the best user experience.
+Frontend Engineer focused on building fast, scalable, and production-grade web applications.
 
-**A bit about me**:
+I specialize in **React, Next.js, and TypeScript**, crafting high-performance interfaces for data-driven products. I care deeply about performance, clean architecture, accessibility, and user experience.
 
-- 🔭 I build scalable and intuitive web applications.
-- 💼 I'm available for a Frontend Developer role (UI developer, Web Developer, Frontend Developer roles)
-- 💡 Fun fact: I'm a Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I'm currently learning NodeJS, Express JS and perfecting my technical writing skills.
-- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
-- 💼 Job interests: Frontend Engineer, Software Engineer, React JS Developer, Frontend Developer, UI Engineer. 
-- 📫 You can contact me by emailing codexjay08@gmail.com.
+---
+
+### 🚀 What I Do
+
+- Build scalable, maintainable frontend architectures
+- Optimize applications for performance (Core Web Vitals, bundle size, rendering efficiency)
+- Develop reusable component systems and UI patterns
+- Integrate APIs with robust state and error handling
+- Ship clean, production-ready code in remote teams
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+)  
+**Styling:** Tailwind CSS, Sass, Responsive Design Systems  
+**State & Data:** Redux, Context API, REST APIs  
+**Tools:** Git, Firebase, CI/CD  
+
+
+
+### 🌍 Open To
+
+Remote Frontend Engineer / Software Engineer roles working on high-impact, performance-critical products.
+
+📩 codexjay08@gmail.com  
+
 
 
 ## 🔧 Technologies & Tools
@@ -35,22 +54,5 @@ As a passionate Front-end Engineer, I constantly strive to grow my technical and
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay035&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Codexjay's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay035&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="Codexjay's GitHub stats" /> |
 | ------------- | ------------- |
 
-<!--
-**Jay035/Jay035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-I am a self-taught Front-end Developer with expertise in creating responsive, scalable and intuitive interfaces using industry best practices. 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
