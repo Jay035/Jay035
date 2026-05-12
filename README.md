@@ -33,7 +33,7 @@ I specialize in **React, Next.js, and TypeScript**, crafting high-performance in
 
 ### 🌍 Open To
 
-Remote Frontend Engineer / Software Engineer roles working on high-impact, performance-critical products.
+Frontend Engineer / Software Engineer roles working on high-impact, performance-critical products.
 
 📩 codexjay08@gmail.com  
 
