@@ -54,5 +54,5 @@ Frontend Engineer / Software Engineer roles working on high-impact, performance-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay035&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Codexjay's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay035&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="Codexjay's GitHub stats" /> |
 | ------------- | ------------- |
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay035&" alt="jay035" /></p>
 
