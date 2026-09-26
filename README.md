@@ -1,6 +1,4 @@
-### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Frontend+Engineer;I'm+a+Webflow+Developer)](https://git.io/typing-svg)
 
 [![Website Badge](https://img.shields.io/badge/-codexjay.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://codexjay.dev)](https://codexjay.dev) [![Linkedin Badge](https://img.shields.io/badge/-Chibuike~Ukandu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuike-ukandu-8385401b0/)](https://www.linkedin.com/in/chibuike-ukandu/) [![Twitter Badge](https://img.shields.io/badge/-@Chibuike035-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Chibuike035)](https://twitter.com/Chibuike035)
 
@@ -12,7 +10,7 @@ I specialize in **React, Next.js, and TypeScript**, crafting high-performance in
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - Build scalable, maintainable frontend architectures
 - Optimize applications for performance (Core Web Vitals, bundle size, rendering efficiency)
